@@ -1,0 +1,16 @@
+strong / b
+
+em / i
+
+del
+
+ins / u
+
+mark
+
+span
+
+
+small
+
+sup / sub
