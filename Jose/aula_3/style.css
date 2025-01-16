@@ -1,0 +1,72 @@
+/*
+Existem 3 tipos de CSS:
+
+Inline -> adiciona
+
+
+
+
+*/
+
+
+html {
+    height: 100vh;
+
+}
+
+
+
+h1 {
+    margin: 2px;
+
+    border: black 2px solid;
+
+    padding: 24px;
+
+    font-size: 36pt;
+
+    width: 90vw;
+
+    height: 30vh;
+
+    text-align: center;
+
+    background-image: url(https://tm.ibxk.com.br/2017/10/06/06112625373029.jpg?ims=1200x675)
+}
+
+
+
+
+p {
+    font-weight: bold;
+}
+
+
+span {
+
+    color: green;
+}
+
+li {
+
+    font-size: 24px;
+
+}
+
+
+
+a {
+    font-size: 75%;
+
+
+}
+
+
+p {
+    font-size: 2rem;
+}
+
+
+img {
+    width: 300px;
+}
