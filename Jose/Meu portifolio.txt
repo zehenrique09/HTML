@@ -1,0 +1,12 @@
+Objetivo:
+Criar uma página de portfólio pessoal que apresente informações sobre o desenvolvedor ou designer, como:
+
+- Nome
+- Foto do perfil
+- Descrição sobre você
+- Habilidades
+- Projetos
+- Formas de contato (e-mail, redes sociais, etc.)
+ Desafio:
+
+Estrutura básica da página: Utilize a marcação HTML para criar
