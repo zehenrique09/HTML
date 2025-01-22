@@ -100,8 +100,7 @@ section>h2 {
     padding: 20px;
     border: 1px solid black;
     text-align: center;
-
-align-content: center;
+    align-content: center;
 
 }
 
@@ -109,9 +108,7 @@ align-content: center;
 #projetos div {
 
     display: flex;
-
     justify-content: space-evenly;
-
     gap: 150px;
     border: 1px solid black;
     padding: 20px;
@@ -123,12 +120,12 @@ align-content: center;
 
 #projetos article {
 
+    align-content: center;
+    padding: 10px;
+    text-align: left;
+    border: 1px solid black;
+    width: 600px;
 
-padding: 10px;
-
-    border: 1px solid black
-
-   
 }
 
 
