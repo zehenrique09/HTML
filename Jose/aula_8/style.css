@@ -1,0 +1,117 @@
+:root {
+
+    --cor-1: #30C5FF;
+    --cor-2: #2A2D34;
+    --cor-3: #5C946E;
+    --cor-4: #80C2AF;
+    --cor-5: #A0DDE6;
+
+}
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+body {
+
+    height: 100%;
+    background-color: var(--cor-4);
+}
+
+h1 {
+
+    text-align: center;
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+
+
+
+main {
+
+
+    border-radius: 20px;
+    box-shadow: 2px 4px 8px 4px var(--cor-2);
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    transition: 1s;
+    background-color: var(--cor-5);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: auto;
+
+}
+
+main:hover {
+
+    background-color: var(--cor-3);
+    color: aliceblue;
+    transform: scale(1.2);
+
+
+}
+
+
+
+
+
+table {
+
+    border: 1px solid rgb(17, 0, 255);
+    margin: auto;
+    padding: 10px;
+    width: 100%;
+}
+
+
+
+th,
+td {
+
+    border: 1px dashed green;
+    padding: 8px;
+    text-align: center;
+
+}
+
+
+fieldset {
+
+    border: 0px;
+
+}
+
+
+section {
+    width: 80%;
+    border: 1px solid black;
+
+    border-radius: 20px;
+
+    box-shadow: 3px 4px 6px 4px black;
+
+    margin: auto;
+
+    margin-bottom: 20px;
+
+    padding: 20px;
+
+    transition: 1s;
+
+}
+
+section:hover {
+
+
+    background-color: var(--cor-3);
+    color: aliceblue;
+    transform: scale(1.2);
+
+}
